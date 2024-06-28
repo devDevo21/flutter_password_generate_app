@@ -2,7 +2,7 @@
 
 A flutter application to generate security passwords
 
-- [My Linkedin](www.linkedin.com/in/loïc-lekane-627368270)
+- [My Linkedin](https://www.linkedin.com/in/loïc-lekane-627368270)
 
 ## Shots
  <div class="row">
